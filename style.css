@@ -67,7 +67,7 @@ body {
 .burger__button-close{
     height: 40px;
     width: 40px;
-    background-image: url(/svg/close.svg);
+    background-image: url("/svg/close.svg");
     background-color:#FF3E79;
     background-repeat: no-repeat;
     background-position: center;
@@ -86,7 +86,7 @@ body {
  .button-search{
     height: 40px;
     width: 40px;
-    background-image: url(/svg/search.svg);
+    background-image: url("/svg/search.svg");
     background-color:#FF3E79;
     background-repeat: no-repeat;
     background-position: center;
@@ -164,7 +164,7 @@ body {
 .button-tel{
         height: 40px;
         width: 40px;
-        background-image: url(/svg/tel.svg);
+        background-image: url("/svg/tel.svg");
         background-color:#FF3E79;
         background-repeat: no-repeat;
         background-position: center;
@@ -179,7 +179,7 @@ body {
 .button-message{
         height: 40px;
         width: 40px;
-        background-image: url(/svg/mes.svg);
+        background-image: url("/svg/mes.svg");
         background-color:#FF3E79;
         background-repeat: no-repeat;
         background-position: center;
@@ -194,7 +194,7 @@ body {
     .button-profile{
         height: 40px;
         width: 40px;
-        background-image: url(/svg/man.svg);
+        background-image: url("/svg/man.svg");
         background-color:#FF3E79;
         background-repeat: no-repeat;
         background-position: center;
